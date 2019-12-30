@@ -1,0 +1,3 @@
+from DocumentParser import PDFtoJPEGConverter
+from DocumentParser import DocumentType
+from DocumentParser import TextExtraction
